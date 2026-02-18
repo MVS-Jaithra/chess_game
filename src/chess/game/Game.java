@@ -1,5 +1,7 @@
 package chess.game;
 
-public class Game {
+import chess.board.Board;
 
+public class Game {
+     private final Board board;
 }
